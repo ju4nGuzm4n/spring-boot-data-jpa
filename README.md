@@ -1,0 +1,1 @@
+# Duda de Juan Antonio guzman, coorespondiente a la duda del curso spring de 0 a expert leccion 98, El proyecto en la clase FacturaController metodo cargarProductos, si se esta recibiendo la peticion para la busqueda de productos, pro esta no regresa al browser  
